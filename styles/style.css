@@ -88,6 +88,9 @@ body{
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
 }
+.apresentacao__imagem{
+    border-radius: 3%;
+}
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
